@@ -5,7 +5,7 @@
 `m3u8_decrypt.py` is a PoC script in python that can be used to **automate the download and decryption** of encrypted HLS (HTTP Live Streaming) media content. It reads `.m3u8` playlists, fetches encrypted `video segments` and their corresponding `encryption key` files, and outputs decrypted `.ts` files ready for playback or further processing. 
 
 The script was released along with a Blog post on Watermark bypasses, available at:
-- https://blog.kulkan.com/XXXXXXXXXXXXXXXXXXXXXX
+- https://blog.kulkan.com/bypassing-watermark-implementations-fe39e98ca22b
 
 ## Installation 
 
